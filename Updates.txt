@@ -1,0 +1,20 @@
+01. Added a data flow diagram for the current system of teaching binary using teacher and student feedback
+02. Added what materials were used in lessons
+03. Added more detail to further investigation
+04. Added page numbers to the user requierments to help identify justifications
+05. Added more detail to the aquisation of the user feedback
+06. Added trace table to test algorithms 
+07. Expanded on white and black box testing
+08. Added qualatitive testing to the test stratergy
+09. Added feedback to the visual parts of design and development
+10. Added some white box testing to blitting the lights in the engine room quiz
+11. Added white box testing to the Target number and pre-main loop sections
+12. Clearly labeled all white box testing of the first quiz
+13. Added more detail to the Beta testing of the first quiz, including feedback form and date
+14. Expanded and corrected hardware and software requirements in documentation
+15. Added on screen help section to troubleshooting 
+16. Extended glossary of terms
+17. Extended the final beta testing with one on one dicussions and more detail
+18. Added more detail to the Possible Extensions section
+19. Added Good and Bad points to the desirable extension section
+20. Added more information on the Airships.py section of the fact that that part is the system being developed, not just a component
